@@ -16,11 +16,11 @@ public class CWH_05_TakingInpu {
 //        float sum = a +b;
 //        System.out.println("The sum of these numbers is");
 //        System.out.println(sum);
-//        boolean b1 = sc.hasNextInt();
-//        System.out.println(b1);
+        boolean b1 = sc.hasNextInt();
+        System.out.println(b1);
 //        String str = sc.next();
-        String str = sc.nextLine();
-        System.out.println(str);
+//        String str = sc.nextLine();
+//        System.out.println(str);
 
     }
 }
