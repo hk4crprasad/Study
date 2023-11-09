@@ -7,7 +7,11 @@
 using namespace std;
 
 int main(){
-    int a=4, b=5;
+    int a,b;
+    cout<<"Enter First Number :- ";
+    cin>>a;
+    cout<<"Enter 2nd Number :- ";
+    cin>>b;
     cout<<"Operators in C++:"<<endl;
     cout<<"Following are the types of operators in C++"<<endl;
     // Arithmetic operators
